@@ -104,7 +104,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Northern Territory,Australia,,-12.4634,130.8456,12,0,0,12
 ,Northwest Territories,Canada,,64.8255,-124.8457,1,0,0,0
 ,Nova Scotia,Canada,,44.682,-63.7443,73,0,0,0
-,Ontario,Canada,,51.2538,-85.3232,858,13,0,0
+,Ontario,Canada,,51.2538,-85.3232,858,15,0,0
 ,Prince Edward Island,Canada,,46.5107,-63.4168,9,0,0,0
 ,Qinghai,China,,35.7452,95.9956,18,0,18,0
 ,Quebec,Canada,,52.9399,-73.5491,1632,8,0,0
