@@ -62,7 +62,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Australian Capital Territory,Australia,,-35.4735,149.0124,62,0,1,61
 ,Beijing,China,,40.1824,116.4142,569,8,408,153
 ,Bermuda,United Kingdom,,32.3078,-64.7505,17,0,2,15
-,British Columbia,Canada,,53.7267,-127.6476,824,16,0,0
+,British Columbia,Canada,,53.7267,-127.6476,792,16,0,0
 ,Cayman Islands,United Kingdom,,19.3133,-81.2546,8,1,0,7
 ,Channel Islands,United Kingdom,,49.3723,-2.3644,88,1,0,87
 ,Chongqing,China,,30.0572,107.874,578,6,570,2
