@@ -60,7 +60,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Anhui,China,,31.8257,117.2264,990,6,984,0
 ,Aruba,Netherlands,,12.5211,-69.9683,33,0,1,32
 ,Australian Capital Territory,Australia,,-35.4735,149.0124,62,0,1,61
-,Beijing,China,,40.1824,116.4142,569,8,408,153
+,Beijing,China,,40.1824,116.4142,572,8,409,155
 ,Bermuda,United Kingdom,,32.3078,-64.7505,17,0,2,15
 ,British Columbia,Canada,,53.7267,-127.6476,792,16,0,0
 ,Cayman Islands,United Kingdom,,19.3133,-81.2546,8,1,0,7
@@ -89,8 +89,8 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Isle of Man,United Kingdom,,54.2361,-4.5481,29,0,0,29
 ,Jiangsu,China,,32.9711,119.455,641,0,631,10
 ,Jiangxi,China,,27.614,115.7221,936,1,934,1
-,Jilin,China,,43.6661,126.1923,95,1,92,2
-,Liaoning,China,,41.2956,122.6085,128,2,124,2
+,Jilin,China,,43.6661,126.1923,97,1,92,4
+,Liaoning,China,,41.2956,122.6085,131,2,124,5
 ,Macau,China,,22.1667,113.55,33,0,10,23
 ,Manitoba,Canada,,53.7609,-98.8139,39,1,0,0
 ,Martinique,France,,14.6415,-61.0242,81,1,0,80
