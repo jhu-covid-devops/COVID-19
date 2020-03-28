@@ -101,11 +101,11 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,New Brunswick,Canada,,46.5653,-66.4619,45,0,0,0
 ,New Caledonia,France,,-20.904305,165.618042,15,0,0,15
 ,New South Wales,Australia,,-33.8688,151.2093,1029,7,4,1018
-,Newfoundland and Labrador,Canada,,53.1355,-57.6604,102,0,0,0
+,Newfoundland and Labrador,Canada,,53.1355,-57.6604,120,0,0,0
 ,Ningxia,China,,37.2692,106.1655,75,0,75,0
 ,Northern Territory,Australia,,-12.4634,130.8456,6,0,0,6
 ,Northwest Territories,Canada,,64.8255,-124.8457,1,0,0,0
-,Nova Scotia,Canada,,44.682,-63.7443,90,0,0,0
+,Nova Scotia,Canada,,44.682,-63.7443,110,0,0,0
 ,Ontario,Canada,,51.2538,-85.3232,1144,18,0,0
 ,Prince Edward Island,Canada,,46.5107,-63.4168,11,0,0,0
 ,Qinghai,China,,35.7452,95.9956,18,0,18,0
@@ -132,7 +132,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Virgin Islands,US,,18.3358,-64.8963,17,0,0,0
 ,Western Australia,Australia,,-31.9505,115.8605,175,1,1,173
 ,Xinjiang,China,,41.1129,85.2401,76,3,73,0
-,Yukon,Canada,,64.2823,-135.0,3,0,0,0
+,Yukon,Canada,,64.2823,-135.0,4,0,0,0
 ,Yunnan,China,,24.974,101.487,180,2,172,6
 ,Zhejiang,China,,29.1832,120.0934,1251,1,1225,25
 ,Diamond Princess,Canada,,0.0,0.0,0,1,0,0
