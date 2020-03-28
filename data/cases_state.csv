@@ -60,7 +60,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Anguilla,United Kingdom,,18.2206,-63.0686,2,0,0,2
 ,Anhui,China,,31.8257,117.2264,990,6,984,0
 ,Aruba,Netherlands,,12.5211,-69.9683,33,0,1,32
-,Australian Capital Territory,Australia,,-35.4735,149.0124,62,62,0,0
+,Australian Capital Territory,Australia,,-35.4735,149.0124,39,0,0,39
 ,Beijing,China,,40.1824,116.4142,572,8,409,155
 ,Bermuda,United Kingdom,,32.3078,-64.7505,17,0,2,15
 ,British Columbia,Canada,,53.7267,-127.6476,792,16,0,0
@@ -100,17 +100,17 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Montserrat,United Kingdom,,16.742498,-62.187366,5,0,0,5
 ,New Brunswick,Canada,,46.5653,-66.4619,45,0,0,0
 ,New Caledonia,France,,-20.904305,165.618042,15,0,0,15
-,New South Wales,Australia,,-33.8688,151.2093,1405,1405,0,0
+,New South Wales,Australia,,-33.8688,151.2093,1029,7,4,1018
 ,Newfoundland and Labrador,Canada,,53.1355,-57.6604,102,0,0,0
 ,Ningxia,China,,37.2692,106.1655,75,0,75,0
-,Northern Territory,Australia,,-12.4634,130.8456,12,12,0,0
+,Northern Territory,Australia,,-12.4634,130.8456,6,0,0,6
 ,Northwest Territories,Canada,,64.8255,-124.8457,1,0,0,0
 ,Nova Scotia,Canada,,44.682,-63.7443,90,0,0,0
 ,Ontario,Canada,,51.2538,-85.3232,994,18,0,0
 ,Prince Edward Island,Canada,,46.5107,-63.4168,11,0,0,0
 ,Qinghai,China,,35.7452,95.9956,18,0,18,0
 ,Quebec,Canada,,52.9399,-73.5491,2024,18,0,0
-,Queensland,Australia,,-27.4698,153.0251,555,555,0,0
+,Queensland,Australia,,-27.4698,153.0251,443,0,8,435
 ,Recovered,Canada,,0.0,0.0,0,0,345,0
 ,Recovered,US,,0.0,0.0,0,0,619,0
 ,Reunion,France,,-21.1151,55.5364,145,0,1,144
@@ -122,15 +122,15 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Shanxi,China,,37.5777,112.2922,135,0,133,2
 ,Sichuan,China,,30.6171,102.7103,548,3,536,9
 ,Sint Maarten,Netherlands,,18.0425,-63.0548,3,0,0,3
-,South Australia,Australia,,-34.9285,138.6007,257,257,0,0
+,South Australia,Australia,,-34.9285,138.6007,170,0,6,164
 ,St Martin,France,,18.0708,-63.0501,11,0,0,11
-,Tasmania,Australia,,-42.8821,147.3272,47,47,0,0
+,Tasmania,Australia,,-42.8821,147.3272,36,0,3,33
 ,Tianjin,China,,39.3054,117.323,156,3,133,20
 ,Tibet,China,,31.6927,88.0924,1,0,1,0
 ,Turks and Caicos Islands,United Kingdom,,21.69400000000001,-71.7979,2,0,0,2
-,Victoria,Australia,,-37.8136,144.9631,574,574,0,0
+,Victoria,Australia,,-37.8136,144.9631,466,0,97,369
 ,Virgin Islands,US,,18.3358,-64.8963,17,0,0,0
-,Western Australia,Australia,,-31.9505,115.8605,231,231,0,0
+,Western Australia,Australia,,-31.9505,115.8605,175,1,1,173
 ,Xinjiang,China,,41.1129,85.2401,76,3,73,0
 ,Yukon,Canada,,64.2823,-135.0,3,0,0,0
 ,Yunnan,China,,24.974,101.487,180,2,172,6
