@@ -61,7 +61,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Anhui,China,,31.8257,117.2264,990,6,984,0
 ,Aruba,Netherlands,,12.5211,-69.9683,46,0,1,45
 ,Australian Capital Territory,Australia,,-35.4735,149.0124,39,0,0,39
-,Beijing,China,,40.1824,116.4142,577,8,411,158
+,Beijing,China,,40.1824,116.4142,577,8,412,157
 ,Bermuda,United Kingdom,,32.3078,-64.7505,22,0,2,20
 ,British Columbia,Canada,,53.7267,-127.6476,884,17,0,0
 ,British Virgin Islands,United Kingdom,,18.4207,-64.64,2,0,0,2
@@ -73,7 +73,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,French Guiana,France,,4.0,-53.0,28,0,6,22
 ,French Polynesia,France,,-17.6797,149.4068,30,0,0,30
 ,Fujian,China,,26.0789,117.9874,338,1,295,42
-,Gansu,China,,37.8099,101.0583,136,2,125,9
+,Gansu,China,,37.8099,101.0583,138,2,125,11
 ,Gibraltar,United Kingdom,,36.1408,-5.3536,56,0,14,42
 ,Greenland,Denmark,,71.7069,-42.6043,10,0,2,8
 ,Guadeloupe,France,,16.265,-61.551,102,2,17,83
@@ -85,7 +85,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Heilongjiang,China,,47.861999999999995,127.7615,484,13,469,2
 ,Henan,China,,33.882,113.61399999999999,1276,22,1251,3
 ,Hong Kong,China,,22.3,114.2,641,4,112,525
-,Hubei,China,,30.9756,112.2707,67801,3182,62565,2054
+,Hubei,China,,30.9756,112.2707,67801,3182,62570,2049
 ,Hunan,China,,27.6104,111.7088,1018,4,1014,0
 ,Inner Mongolia,China,,44.0935,113.9448,95,1,74,20
 ,Isle of Man,United Kingdom,,54.2361,-4.5481,37,0,0,37
