@@ -72,7 +72,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Faroe Islands,Denmark,,61.8926,-6.9118,159,0,70,89
 ,French Guiana,France,,4.0,-53.0,43,0,6,37
 ,French Polynesia,France,,-17.6797,149.4068,30,0,0,30
-,Fujian,China,,26.0789,117.9874,338,1,295,42
+,Fujian,China,,26.0789,117.9874,340,1,295,44
 ,Gansu,China,,37.8099,101.0583,138,2,125,11
 ,Gibraltar,United Kingdom,,36.1408,-5.3536,65,0,14,51
 ,Greenland,Denmark,,71.7069,-42.6043,10,0,2,8
@@ -134,6 +134,6 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Xinjiang,China,,41.1129,85.2401,76,3,73,0
 ,Yukon,Canada,,64.2823,-135.0,4,0,0,0
 ,Yunnan,China,,24.974,101.487,180,2,172,6
-,Zhejiang,China,,29.1832,120.0934,1254,1,1225,28
+,Zhejiang,China,,29.1832,120.0934,1255,1,1225,29
 ,Diamond Princess,Canada,,0.0,0.0,0,1,0,0
 ,Grand Princess,Canada,,0.0,0.0,13,0,0,0
