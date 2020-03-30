@@ -61,7 +61,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Anhui,China,,31.8257,117.2264,990,6,984,0
 ,Aruba,Netherlands,,12.5211,-69.9683,50,0,1,49
 ,Australian Capital Territory,Australia,,-35.4735,149.0124,39,0,0,39
-,Beijing,China,,40.1824,116.4142,577,8,412,157
+,Beijing,China,,40.1824,116.4142,577,8,415,154
 ,Bermuda,United Kingdom,,32.3078,-64.7505,22,0,2,20
 ,British Columbia,Canada,,53.7267,-127.6476,884,17,0,0
 ,British Virgin Islands,United Kingdom,,18.4207,-64.64,2,0,0,2
@@ -118,7 +118,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Saskatchewan,Canada,,52.9399,-106.4509,156,0,0,0
 ,Shaanxi,China,,35.1917,108.8701,253,3,242,8
 ,Shandong,China,,36.3427,118.1498,773,7,753,13
-,Shanghai,China,,31.202,121.4491,498,5,334,159
+,Shanghai,China,,31.202,121.4491,498,5,338,155
 ,Shanxi,China,,37.5777,112.2922,136,0,133,3
 ,Sichuan,China,,30.6171,102.7103,550,3,536,11
 ,Sint Maarten,Netherlands,,18.0425,-63.0548,6,0,0,6
