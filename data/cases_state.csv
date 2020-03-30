@@ -109,7 +109,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Ontario,Canada,,51.2538,-85.3232,1706,21,0,0
 ,Prince Edward Island,Canada,,46.5107,-63.4168,18,0,0,0
 ,Qinghai,China,,35.7452,95.9956,18,0,18,0
-,Quebec,Canada,,52.9399,-73.5491,2840,22,0,0
+,Quebec,Canada,,52.9399,-73.5491,3430,22,0,0
 ,Queensland,Australia,,-27.4698,153.0251,443,0,8,435
 ,Recovered,Canada,,0.0,0.0,0,0,466,0
 ,Recovered,US,,0.0,0.0,0,0,619,0
