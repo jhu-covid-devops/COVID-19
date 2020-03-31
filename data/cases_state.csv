@@ -63,7 +63,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Australian Capital Territory,Australia,,-35.4735,149.0124,39,0,0,39
 ,Beijing,China,,40.1824,116.4142,580,8,418,154
 ,Bermuda,United Kingdom,,32.3078,-64.7505,32,0,10,22
-,British Columbia,Canada,,53.7267,-127.6476,1013,23,0,0
+,British Columbia,Canada,,53.7267,-127.6476,1013,24,0,0
 ,British Virgin Islands,United Kingdom,,18.4207,-64.64,3,0,0,3
 ,Cayman Islands,United Kingdom,,19.3133,-81.2546,14,1,0,13
 ,Channel Islands,United Kingdom,,49.3723,-2.3644,141,3,0,138
@@ -133,7 +133,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Western Australia,Australia,,-31.9505,115.8605,175,1,1,173
 ,Xinjiang,China,,41.1129,85.2401,76,3,73,0
 ,Yukon,Canada,,64.2823,-135.0,5,0,0,0
-,Yunnan,China,,24.974,101.48700000000001,181,2,172,7
+,Yunnan,China,,24.974,101.48700000000001,182,2,172,8
 ,Zhejiang,China,,29.1832,120.0934,1257,1,1226,30
 ,Diamond Princess,Canada,,0.0,0.0,0,1,0,0
 ,Grand Princess,Canada,,0.0,0.0,13,0,0,0
