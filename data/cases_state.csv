@@ -87,12 +87,12 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Hong Kong,China,,22.3,114.2,682,4,124,554
 ,Hubei,China,,30.9756,112.2707,67801,3186,62889,1726
 ,Hunan,China,,27.6104,111.7088,1018,4,1014,0
-,Inner Mongolia,China,,44.0935,113.9448,97,1,74,22
+,Inner Mongolia,China,,44.0935,113.9448,107,1,74,32
 ,Isle of Man,United Kingdom,,54.2361,-4.5481,49,0,0,49
 ,Jiangsu,China,,32.9711,119.455,645,0,631,14
 ,Jiangxi,China,,27.614,115.7221,937,1,935,1
 ,Jilin,China,,43.6661,126.1923,98,1,92,5
-,Liaoning,China,,41.2956,122.6085,136,2,124,10
+,Liaoning,China,,41.2956,122.6085,139,2,124,13
 ,Macau,China,,22.1667,113.55,38,0,10,28
 ,Manitoba,Canada,,53.7609,-98.8139,96,1,0,0
 ,Martinique,France,,14.6415,-61.0242,93,1,0,92
@@ -118,7 +118,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Saskatchewan,Canada,,52.9399,-106.4509,156,2,0,0
 ,Shaanxi,China,,35.1917,108.8701,253,3,242,8
 ,Shandong,China,,36.3427,118.1498,773,7,753,13
-,Shanghai,China,,31.201999999999998,121.4491,498,5,338,155
+,Shanghai,China,,31.201999999999998,121.4491,509,5,338,166
 ,Shanxi,China,,37.5777,112.2922,136,0,133,3
 ,Sichuan,China,,30.6171,102.7103,550,3,536,11
 ,Sint Maarten,Netherlands,,18.0425,-63.0548,6,0,0,6
