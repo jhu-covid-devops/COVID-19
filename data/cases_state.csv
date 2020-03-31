@@ -66,7 +66,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,British Columbia,Canada,,53.7267,-127.6476,970,19,0,0
 ,British Virgin Islands,United Kingdom,,18.4207,-64.64,3,0,0,3
 ,Cayman Islands,United Kingdom,,19.3133,-81.2546,12,1,0,11
-,Channel Islands,United Kingdom,,49.3723,-2.3644,141,2,0,139
+,Channel Islands,United Kingdom,,49.3723,-2.3644,141,3,0,138
 ,Chongqing,China,,30.0572,107.874,579,6,570,3
 ,Curacao,Netherlands,,12.1696,-68.99,11,1,2,8
 ,Faroe Islands,Denmark,,61.8926,-6.9118,169,0,74,95
