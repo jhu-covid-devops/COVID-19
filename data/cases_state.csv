@@ -81,7 +81,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Guangxi,China,,23.8298,108.7881,254,2,250,2
 ,Guizhou,China,,26.8154,106.8748,146,2,144,0
 ,Hainan,China,,19.1959,109.7453,168,6,168,-6
-,Hebei,China,,39.549,116.1306,321,6,310,5
+,Hebei,China,,39.549,116.1306,323,6,310,7
 ,Heilongjiang,China,,47.862,127.7615,484,13,469,2
 ,Henan,China,,33.882,113.614,1276,22,1251,3
 ,Hong Kong,China,,22.3,114.2,714,4,128,582
@@ -92,7 +92,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Jiangsu,China,,32.9711,119.455,646,0,631,15
 ,Jiangxi,China,,27.614,115.7221,937,1,935,1
 ,Jilin,China,,43.6661,126.1923,98,1,92,5
-,Liaoning,China,,41.2956,122.6085,139,2,124,13
+,Liaoning,China,,41.2956,122.6085,140,2,124,14
 ,Macau,China,,22.1667,113.55,41,0,10,31
 ,Manitoba,Canada,,53.7609,-98.8139,103,1,0,0
 ,Martinique,France,,14.6415,-61.0242,128,3,27,98
@@ -118,8 +118,8 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Saskatchewan,Canada,,52.9399,-106.4509,184,2,0,0
 ,Shaanxi,China,,35.1917,108.8701,253,3,242,8
 ,Shandong,China,,36.3427,118.1498,774,7,753,14
-,Shanghai,China,,31.202,121.4491,509,5,341,163
-,Shanxi,China,,37.5777,112.2922,136,0,133,3
+,Shanghai,China,,31.202,121.4491,516,6,341,169
+,Shanxi,China,,37.5777,112.2922,137,0,133,4
 ,Sichuan,China,,30.6171,102.7103,550,3,536,11
 ,Sint Maarten,Netherlands,,18.0425,-63.0548,6,0,0,6
 ,South Australia,Australia,,-34.9285,138.6007,170,0,6,164
