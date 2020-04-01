@@ -76,7 +76,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Gansu,China,,37.8099,101.0583,138,2,127,9
 ,Gibraltar,United Kingdom,,36.1408,-5.3536,81,0,34,47
 ,Greenland,Denmark,,71.7069,-42.6043,10,0,2,8
-,Guadeloupe,France,,16.265,-61.551,114,4,22,88
+,Guadeloupe,France,,16.265,-61.551,125,6,24,95
 ,Guangdong,China,,23.3417,113.4244,1501,8,1357,136
 ,Guangxi,China,,23.8298,108.7881,254,2,250,2
 ,Guizhou,China,,26.8154,106.8748,146,2,144,0
@@ -95,7 +95,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Liaoning,China,,41.2956,122.6085,140,2,124,14
 ,Macau,China,,22.1667,113.55,41,0,10,31
 ,Manitoba,Canada,,53.7609,-98.8139,127,1,0,0
-,Martinique,France,,14.6415,-61.0242,128,3,27,98
+,Martinique,France,,14.6415,-61.0242,135,3,27,105
 ,Mayotte,France,,-12.8275,45.166244,94,1,10,83
 ,Montserrat,United Kingdom,,16.742498,-62.187366,5,0,0,5
 ,New Brunswick,Canada,,46.5653,-66.4619,70,0,0,0
