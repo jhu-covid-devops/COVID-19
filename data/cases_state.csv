@@ -71,7 +71,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Curacao,Netherlands,,12.1696,-68.99,11,1,2,8
 ,Faroe Islands,Denmark,,61.8926,-6.9118,169,0,74,95
 ,French Guiana,France,,4.0,-53.0,51,0,15,36
-,French Polynesia,France,,-17.6797,149.4068,37,0,0,37
+,French Polynesia,France,,-17.6797,-149.4068,37,0,0,37
 ,Fujian,China,,26.0789,117.9874,343,1,295,47
 ,Gansu,China,,37.8099,101.0583,138,2,125,11
 ,Gibraltar,United Kingdom,,36.1408,-5.3536,69,0,34,35
