@@ -56,7 +56,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 56.0,Wyoming,US,2020-03-26 13:39:36,42.756,-107.3025,49,0,0,0
 60.0,American Samoa,US,2020-03-26 13:39:36,-14.270999999999999,-170.1322,0,0,0,0
 69.0,Northern Mariana Islands,US,2020-03-26 13:39:36,15.0979,145.6739,0,0,0,0
-,Alberta,Canada,,53.9333,-116.5765,690,8,0,0
+,Alberta,Canada,,53.9333,-116.5765,754,9,0,0
 ,Anguilla,United Kingdom,,18.2206,-63.0686,2,0,0,2
 ,Anhui,China,,31.8257,117.2264,990,6,984,0
 ,Aruba,Netherlands,,12.5211,-69.9683,55,0,1,54
