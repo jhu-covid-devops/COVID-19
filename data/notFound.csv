@@ -1,6 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Chambers,Georgia,US,0,0.0
-Unassigned,US Military,US,2583,5.0
+Unassigned,US Military,US,1853,5.0
+Navy,US Military,US,730,0.0
 Air Force,US Military,US,577,1.0
 Army,US Military,US,0,2.0
 "Bernalillo, NM",Navajo Nation,US,1,0.0
