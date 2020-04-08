@@ -1,5 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Chambers,Georgia,US,0,0.0
+Unassigned,US Military,US,1872,0.0
+Air Force,US Military,US,577,0.0
 Unassigned,Navajo Nation,US,0,15.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
