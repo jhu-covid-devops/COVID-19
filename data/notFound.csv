@@ -1,7 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Chambers,Georgia,US,0,0.0
+Unassigned,US Military,US,2351,5.0
 Air Force,US Military,US,577,1.0
-Unassigned,US Military,US,23,5.0
 Army,US Military,US,0,2.0
 "Bernalillo, NM",Navajo Nation,US,1,0.0
 Unassigned,Navajo Nation,US,0,17.0
@@ -9,4 +9,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,1493707,87465.0
+,,World,1495578,87603.0
