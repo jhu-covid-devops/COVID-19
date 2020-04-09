@@ -124,7 +124,7 @@ FIPS,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Deaths,Recove
 ,Shanghai,China,,31.202,121.4491,552,7,422,123
 ,Shanxi,China,,37.5777,112.2922,166,0,134,32
 ,Sichuan,China,,30.6171,102.7103,560,3,541,16
-,Sint Maarten,Netherlands,,18.0425,-63.0548,40,6,1,33
+,Sint Maarten,Netherlands,,18.0425,-63.0548,43,6,1,36
 ,South Australia,Australia,,-34.9285,138.6007,420,3,120,297
 ,St Martin,France,,18.0708,-63.0501,32,2,7,23
 ,Tasmania,Australia,,-42.8821,147.3272,111,3,48,60
