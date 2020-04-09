@@ -1,8 +1,23 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Not Reported,Michigan,US,2,0.0
-ROCKWALL,Texas,US,2,0.0
-Northern Kentucky,Kentucky,US,1,0.0
+DeWitt,Illinois,US,1,0.0
+Chambers,Georgia,US,0,0.0
+Monitor,Texas,US,0,0.0
+Unassigned,US Military,US,1853,5.0
+Navy,US Military,US,730,0.0
+Air Force,US Military,US,577,1.0
+Army,US Military,US,0,2.0
+"Navajo, AZ",Navajo Nation,US,164,0.0
+"Coconino, AZ",Navajo Nation,US,102,0.0
+"San Juan, NM",Navajo Nation,US,66,0.0
+"Apache, AZ",Navajo Nation,US,44,0.0
+"McKinley, NM",Navajo Nation,US,32,0.0
+"Cibola, NM",Navajo Nation,US,8,0.0
+"San Juan, UT",Navajo Nation,US,7,0.0
+"Socorro, NM",Navajo Nation,US,2,0.0
+"Bernalillo, NM",Navajo Nation,US,1,0.0
+Unassigned,Navajo Nation,US,0,17.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
-,Jervis Bay Territory,Australia,0,0.0
-,,World,1584982,94720.0
+,Jervis Bay,Australia,0,0.0
+,,Australia,0,0.0
+,,World,1589256,94949.0
