@@ -1,6 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,465,18.0
-Staff,Federal Bureau of Prisons,US,296,0.0
+Inmates,Federal Bureau of Prisons,US,479,21.0
+Staff,Federal Bureau of Prisons,US,305,0.0
 Unassigned,Federal Bureau of Prisons,US,0,0.0
 "Apache, AZ",Navajo Nation,US,168,0.0
 "Bernalillo, NM",Navajo Nation,US,0,0.0
@@ -30,4 +30,4 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,2329806,160579.0
+,,World,2359346,161951.0
