@@ -1,7 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Inmates,Federal Bureau of Prisons,US,495,22.0
 Staff,Federal Bureau of Prisons,US,309,0.0
-Unassigned,Federal Bureau of Prisons,US,0,0.0
 "Apache, AZ",Navajo Nation,US,187,0.0
 "Bernalillo, NM",Navajo Nation,US,0,0.0
 "Cibola, NM",Navajo Nation,US,14,0.0
@@ -14,8 +13,6 @@ Unassigned,Federal Bureau of Prisons,US,0,0.0
 "Socorro, NM",Navajo Nation,US,13,0.0
 Unassigned,Navajo Nation,US,0,44.0
 Countytba,New Hampshire,US,2,0.0
-Unassigned,Puerto Rico,US,0,0.0
-Unassigned,Samoa,US,0,0.0
 Monitor,Texas,US,0,0.0
 Air Force,US Military,US,757,1.0
 Army,US Military,US,726,2.0
@@ -23,8 +20,6 @@ Marine Corps,US Military,US,236,0.0
 Navy,US Military,US,1255,6.0
 Unassigned,US Military,US,1875,10.0
 Hospital System,Veteran Affair,US,5437,326.0
-Unassigned,Veteran Affair,US,0,0.0
-Unassigned,"Washington, D.C.",US,0,0.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,Grand Princess,US,103,3.0
 ,Diamond Princess,US,49,0.0
