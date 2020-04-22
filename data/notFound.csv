@@ -1,4 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
+Inmates,Federal Bureau of Prisons,US,540,23.0
+Staff,Federal Bureau of Prisons,US,323,0.0
 "Apache, AZ",Navajo Nation,US,233,0.0
 "Bernalillo, NM",Navajo Nation,US,0,0.0
 "Cibola, NM",Navajo Nation,US,14,0.0
@@ -11,9 +13,14 @@ County,Province_State,Country_Region,Confirmed,Deaths
 "Socorro, NM",Navajo Nation,US,13,0.0
 Unassigned,Navajo Nation,US,0,45.0
 Monitor,Texas,US,0,0.0
-Benton and Franklin,Washington,US,727,38.0
+Air Force,US Military,US,800,1.0
+Army,US Military,US,841,2.0
+Marine Corps,US Military,US,253,0.0
+Navy,US Military,US,1631,7.0
+Unassigned,US Military,US,1810,12.0
+Benton and Franklin,Washington,US,740,39.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,2614514,182457.0
+,,World,2614803,182467.0
