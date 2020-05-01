@@ -3050,16 +3050,16 @@ Wisconsin,US,2020-05-01 14:12:49,45.86303537,-92.36711412,0,0,0,0,Burnett,55013.
 Wisconsin,US,2020-05-01 14:12:49,45.21179252,-90.5004405,0,0,0,0,Taylor,55119.0,"Taylor, Wisconsin, US",0.0,,,84055119.0,USA
 Wisconsin,US,2020-05-01 14:12:48,45.66678019,-88.77084892,0,0,0,0,Forest,55041.0,"Forest, Wisconsin, US",0.0,,,84055041.0,USA
 Wisconsin,US,2020-05-01 14:12:48,45.26271619,-89.07483625,0,0,0,0,Langlade,55067.0,"Langlade, Wisconsin, US",0.0,,,84055067.0,USA
-New South Wales,Australia,2020-05-01 14:30:33,-33.8688,151.2093,2926,26,1379,1521,,,"New South Wales, Australia",,,,3602.0,AUS
-Victoria,Australia,2020-05-01 14:30:33,-37.8136,144.9631,1319,14,1172,133,,,"Victoria, Australia",,,,3607.0,AUS
-Queensland,Australia,2020-05-01 14:30:33,-27.4698,153.0251,1015,6,738,271,,,"Queensland, Australia",,,,3604.0,AUS
-Western Australia,Australia,2020-05-01 14:30:33,-31.9505,115.8605,541,7,340,194,,,"Western Australia, Australia",,,,3608.0,AUS
-South Australia,Australia,2020-05-01 14:30:33,-34.9285,138.6007,435,4,331,100,,,"South Australia, Australia",,,,3605.0,AUS
-Tasmania,Australia,2020-05-01 14:30:33,-42.8821,147.3272,180,7,67,106,,,"Tasmania, Australia",,,,3606.0,AUS
-Australian Capital Territory,Australia,2020-05-01 14:30:33,-35.4735,149.0124,103,3,88,12,,,"Australian Capital Territory, Australia",,,,3601.0,AUS
-Northern Territory,Australia,2020-05-01 14:30:33,-12.4634,130.8456,28,0,9,19,,,"Northern Territory, Australia",,,,3603.0,AUS
-External territories,Australia,2020-05-01 14:30:33,,,0,0,0,0,,,"External territories, Australia",,,,,
-Jervis Bay,Australia,2020-05-01 14:30:33,,,0,0,0,0,,,"Jervis Bay, Australia",,,,,
+New South Wales,Australia,2020-05-01 15:00:35,-33.8688,151.2093,2926,26,1379,1521,,,"New South Wales, Australia",,,,3602.0,AUS
+Victoria,Australia,2020-05-01 15:00:35,-37.8136,144.9631,1319,14,1172,133,,,"Victoria, Australia",,,,3607.0,AUS
+Queensland,Australia,2020-05-01 15:00:35,-27.4698,153.0251,1015,6,738,271,,,"Queensland, Australia",,,,3604.0,AUS
+Western Australia,Australia,2020-05-01 15:00:35,-31.9505,115.8605,541,7,340,194,,,"Western Australia, Australia",,,,3608.0,AUS
+South Australia,Australia,2020-05-01 15:00:35,-34.9285,138.6007,435,4,331,100,,,"South Australia, Australia",,,,3605.0,AUS
+Tasmania,Australia,2020-05-01 15:00:35,-42.8821,147.3272,180,7,67,106,,,"Tasmania, Australia",,,,3606.0,AUS
+Australian Capital Territory,Australia,2020-05-01 15:00:35,-35.4735,149.0124,103,3,88,12,,,"Australian Capital Territory, Australia",,,,3601.0,AUS
+Northern Territory,Australia,2020-05-01 15:00:35,-12.4634,130.8456,28,0,9,19,,,"Northern Territory, Australia",,,,3603.0,AUS
+External territories,Australia,2020-05-01 15:00:35,,,0,0,0,0,,,"External territories, Australia",,,,,
+Jervis Bay,Australia,2020-05-01 15:00:35,,,0,0,0,0,,,"Jervis Bay, Australia",,,,,
 Diamond Princess,Canada,2020-05-01 14:32:26,,,0,1,0,,,,"Diamond Princess, Canada",,,,12413.0,CAN
 Yukon,Canada,2020-05-01 14:32:26,64.2823,-135.0,11,0,9,2,,,"Yukon, Canada",,,,12412.0,CAN
 Northwest Territories,Canada,2020-05-01 14:32:26,64.8255,-124.8457,5,0,5,0,,,"Northwest Territories, Canada",,,,12406.0,CAN
@@ -3075,21 +3075,21 @@ Alberta,Canada,2020-05-01 14:32:26,53.9333,-116.5765,5355,90,2161,3104,,,"Albert
 Quebec,Canada,2020-05-01 14:32:26,52.9399,-73.5491,27550,1859,6299,19392,,,"Quebec, Canada",,,,12410.0,CAN
 Ontario,Canada,2020-05-01 14:32:26,51.2538,-85.3232,17430,1205,10825,5400,,,"Ontario, Canada",,,,12408.0,CAN
 British Columbia,Canada,2020-05-01 14:32:26,53.7267,-127.6476,2112,111,1322,679,,,"British Columbia, Canada",,,,12402.0,CAN
-,Taiwan*,2020-05-01 11:18:37,23.7,121.0,429,6,324,99,,,Taiwan*,,,,158.0,TWN
-,China,2020-05-01 11:18:37,30.5928,114.3055,84387,4643,78891,853,,,China,,,,156.0,CHN
 Shanghai,China,2020-05-01 11:18:37,31.201999999999998,121.4491,652,7,612,33,,,"Shanghai, China",,,,15624.0,CHN
+,China,2020-05-01 11:18:37,30.5928,114.3055,84387,4643,78891,853,,,China,,,,156.0,CHN
+,Taiwan*,2020-05-01 11:18:37,23.7,121.0,429,6,324,99,,,Taiwan*,,,,158.0,TWN
 Hong Kong,China,2020-05-01 10:46:44,22.3,114.2,1039,4,859,176,,,"Hong Kong, China",,,,344.0,HKG
 Heilongjiang,China,2020-05-01 10:44:42,47.861999999999995,127.7615,944,13,605,326,,,"Heilongjiang, China",,,,15611.0,CHN
+Zhejiang,China,2020-05-01 01:03:29,29.1832,120.0934,1268,1,1264,3,,,"Zhejiang, China",,,,15631.0,CHN
 Tianjin,China,2020-05-01 01:03:29,39.3054,117.323,190,3,184,3,,,"Tianjin, China",,,,15627.0,CHN
 Shaanxi,China,2020-05-01 01:03:29,35.1917,108.8701,306,3,254,49,,,"Shaanxi, China",,,,15622.0,CHN
-Zhejiang,China,2020-05-01 01:03:29,29.1832,120.0934,1268,1,1264,3,,,"Zhejiang, China",,,,15631.0,CHN
 Jiangsu,China,2020-05-01 00:54:02,32.9711,119.455,653,0,650,3,,,"Jiangsu, China",,,,15616.0,CHN
 Fujian,China,2020-05-01 00:54:02,26.0789,117.9874,356,1,353,2,,,"Fujian, China",,,,15604.0,CHN
 Beijing,China,2020-05-01 00:44:53,40.1824,116.4142,593,9,547,37,,,"Beijing, China",,,,15602.0,CHN
 Guangdong,China,2020-05-01 00:29:38,23.3417,113.4244,1588,8,1565,15,,,"Guangdong, China",,,,15606.0,CHN
 Inner Mongolia,China,2020-05-01 00:17:23,44.0935,113.9448,201,1,152,48,,,"Inner Mongolia, China",,,,15615.0,CHN
-Shanxi,China,2020-05-01 00:12:18,37.5777,112.2922,197,0,172,25,,,"Shanxi, China",,,,15625.0,CHN
 Jilin,China,2020-05-01 00:12:18,43.6661,126.1923,111,1,101,9,,,"Jilin, China",,,,15618.0,CHN
+Shanxi,China,2020-05-01 00:12:18,37.5777,112.2922,197,0,172,25,,,"Shanxi, China",,,,15625.0,CHN
 Macau,China,2020-04-30 11:19:58,22.1667,113.55,45,0,35,10,,,"Macau, China",,,,446.0,MAC
 Shandong,China,2020-04-30 00:49:49,36.3427,118.1498,787,7,772,8,,,"Shandong, China",,,,15623.0,CHN
 Hubei,China,2020-04-27 01:18:19,30.9756,112.2707,68128,4512,63616,0,,,"Hubei, China",,,,15613.0,CHN
@@ -3110,7 +3110,7 @@ Ningxia,China,2020-03-16 08:47:05,37.2692,106.1655,75,0,75,0,,,"Ningxia, China",
 Xinjiang,China,2020-03-08 05:31:02,41.1129,85.2401,76,3,73,0,,,"Xinjiang, China",,,,15629.0,CHN
 Qinghai,China,2020-02-23 11:19:02,35.7452,95.9956,18,0,18,0,,,"Qinghai, China",,,,15621.0,CHN
 Tibet,China,2020-02-23 11:19:02,31.6927,88.0924,1,0,1,0,,,"Tibet, China",,,,15628.0,CHN
-,Kosovo,2020-05-01 14:30:46,42.602636,20.902977,510,12,93,405,,,Kosovo,,,,383.0,XKS
+,Kosovo,2020-05-01 15:00:48,42.602636,20.902977,510,12,93,405,,,Kosovo,,,,383.0,XKS
 Saint Pierre and Miquelon,France,2020-05-01 14:32:31,46.8852,-56.3159,1,0,0,1,,,"Saint Pierre and Miquelon, France",,,,666.0,SPM
 ,Comoros,2020-05-01 14:32:31,,,1,0,0,1,,,Comoros,,,,,
 Anguilla,United Kingdom,2020-05-01 14:32:31,18.2206,-63.0686,3,0,3,0,,,"Anguilla, United Kingdom",,,,660.0,AIA
