@@ -1,18 +1,18 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Out of state,Colorado,US,0,2.0
-Philips,Colorado,US,6,0.0
-Inmates,Federal Bureau of Prisons,US,1842,36.0
-Staff,Federal Bureau of Prisons,US,343,0.0
+Philips,Colorado,US,5,0.0
+Inmates,Federal Bureau of Prisons,US,1926,38.0
+Staff,Federal Bureau of Prisons,US,350,0.0
 Mcduffie,Georgia,US,45,4.0
 Mcintosh,Georgia,US,6,0.0
-Non-Georgia Resident,Georgia,US,1068,14.0
+Non-Georgia Resident,Georgia,US,1067,14.0
 Residents Diagnosed Outside of HI,Hawaii,US,9,0.0
-Obrien,Iowa,US,9,0.0
+Obrien,Iowa,US,11,0.0
 La Salle,Louisiana,US,26,0.0
-Out of State,Michigan,US,8,0.0
-Wayne--Detroit,Michigan,US,9162,1040.0
-Wayne--Non Detroit,Michigan,US,7808,762.0
-Joplin,Missouri,US,8,0.0
+Out of State,Michigan,US,18,0.0
+Wayne--Detroit,Michigan,US,9386,1085.0
+Wayne--Non Detroit,Michigan,US,7912,808.0
+Joplin,Missouri,US,9,0.0
 Apache(AZ),Navajo Nation,US,450,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
 Cibola(NM),Navajo Nation,US,17,0.0
@@ -25,18 +25,18 @@ Sandoval(NM),Navajo Nation,US,19,0.0
 Socorro(NM),Navajo Nation,US,21,0.0
 Unassigned,Navajo Nation,US,0,62.0
 Countytba,New Hampshire,US,0,0.0
-Hillsborough-Manchester,New Hampshire,US,481,20.0
-Hillsborough-Nashua,New Hampshire,US,206,8.0
-Hillsborough-Other,New Hampshire,US,325,3.0
+Hillsborough-Manchester,New Hampshire,US,529,20.0
+Hillsborough-Nashua,New Hampshire,US,229,8.0
+Hillsborough-Other,New Hampshire,US,351,3.0
 Unassigned,Northern Mariana Islands,US,14,2.0
-Mcclain,Oklahoma,US,74,2.0
+Mcclain,Oklahoma,US,77,2.0
 Mccurtain,Oklahoma,US,8,0.0
 Mcintosh,Oklahoma,US,2,0.0
 Out-of-State,Oklahoma,US,0,0.0
-Out-of-state,Tennessee,US,258,1.0
+Out-of-state,Tennessee,US,311,1.0
 De Witt,Texas,US,15,1.0
-Harris--Houston,Texas,US,3720,60.0
-Harris--Non Houston,Texas,US,2831,62.0
+Harris--Houston,Texas,US,3908,69.0
+Harris--Non Houston,Texas,US,2930,64.0
 Air Force,US Military,US,859,1.0
 Army,US Military,US,971,2.0
 Marine Corps,US Military,US,282,0.0
@@ -46,15 +46,14 @@ St. Croix,US Virgin Islands,US,19,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,36,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,9139,513.0
+VA Hospitals,Veteran Affair,US,9329,538.0
 Buena Vista City,Virginia,US,6,0.0
-Manassas City,Virginia,US,222,2.0
+Manassas City,Virginia,US,266,1.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 unassigned,Wyoming,US,0,6.0
-Data not available,Maryland,US,0,112.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3401002,239602.0
+,,World,3588348,248818.0
