@@ -5,7 +5,7 @@ Inmates,Federal Bureau of Prisons,US,1984,40.0
 Staff,Federal Bureau of Prisons,US,356,0.0
 Mcduffie,Georgia,US,47,4.0
 Mcintosh,Georgia,US,6,0.0
-Non-Georgia Resident,Georgia,US,1080,17.0
+Non-Georgia Resident,Georgia,US,1084,18.0
 Residents Diagnosed Outside of HI,Hawaii,US,9,0.0
 Out of state,Illinois,US,63,3.0
 Obrien,Iowa,US,11,0.0
@@ -26,9 +26,9 @@ Sandoval(NM),Navajo Nation,US,19,0.0
 Socorro(NM),Navajo Nation,US,21,0.0
 Unassigned,Navajo Nation,US,0,62.0
 Countytba,New Hampshire,US,0,0.0
-Hillsborough-Manchester,New Hampshire,US,529,20.0
-Hillsborough-Nashua,New Hampshire,US,229,8.0
-Hillsborough-Other,New Hampshire,US,351,3.0
+Hillsborough-Manchester,New Hampshire,US,553,20.0
+Hillsborough-Nashua,New Hampshire,US,239,8.0
+Hillsborough-Other,New Hampshire,US,365,3.0
 Unassigned,Northern Mariana Islands,US,14,2.0
 Mcclain,Oklahoma,US,77,2.0
 Mccurtain,Oklahoma,US,8,0.0
@@ -47,7 +47,7 @@ St. Croix,US Virgin Islands,US,19,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,36,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,9542,720.0
+VA Hospitals,Veteran Affair,US,9601,722.0
 Buena Vista City,Virginia,US,6,0.0
 Manassas City,Virginia,US,273,1.0
 Unassigned,Wuhan Evacuee,US,4,0.0
@@ -57,4 +57,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3635934,251612.0
+,,World,3640195,251810.0
