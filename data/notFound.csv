@@ -7,12 +7,12 @@ Mcduffie,Georgia,US,49,4.0
 Mcintosh,Georgia,US,6,0.0
 Non-Georgia Resident,Georgia,US,1043,18.0
 Residents Diagnosed Outside of HI,Hawaii,US,9,0.0
-Out of state,Illinois,US,63,3.0
+Out of state,Illinois,US,73,4.0
 Obrien,Iowa,US,11,0.0
 La Salle,Louisiana,US,27,0.0
-Out of State,Michigan,US,22,0.0
-Wayne--Detroit,Michigan,US,9394,1097.0
-Wayne--Non Detroit,Michigan,US,7920,827.0
+Out of State,Michigan,US,64,0.0
+Wayne--Detroit,Michigan,US,9424,1108.0
+Wayne--Non Detroit,Michigan,US,7967,837.0
 Joplin,Missouri,US,9,0.0
 Apache(AZ),Navajo Nation,US,450,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3705874,256541.0
+,,World,3710380,256920.0
