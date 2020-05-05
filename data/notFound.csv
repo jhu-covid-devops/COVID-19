@@ -1,8 +1,8 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Out of state,Colorado,US,0,2.0
 Philips,Colorado,US,5,0.0
-Inmates,Federal Bureau of Prisons,US,1984,40.0
-Staff,Federal Bureau of Prisons,US,356,0.0
+Inmates,Federal Bureau of Prisons,US,2066,41.0
+Staff,Federal Bureau of Prisons,US,359,0.0
 Mcduffie,Georgia,US,49,4.0
 Mcintosh,Georgia,US,6,0.0
 Non-Georgia Resident,Georgia,US,1043,18.0
@@ -13,7 +13,7 @@ La Salle,Louisiana,US,27,0.0
 Out of State,Michigan,US,64,0.0
 Wayne--Detroit,Michigan,US,9424,1108.0
 Wayne--Non Detroit,Michigan,US,7967,837.0
-Joplin,Missouri,US,9,0.0
+Joplin,Missouri,US,8,0.0
 Apache(AZ),Navajo Nation,US,450,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
 Cibola(NM),Navajo Nation,US,17,0.0
@@ -35,7 +35,7 @@ Mcclain,Oklahoma,US,84,2.0
 Mccurtain,Oklahoma,US,8,0.0
 Mcintosh,Oklahoma,US,3,0.0
 Out-of-State,Oklahoma,US,0,0.0
-Out-of-state,Tennessee,US,347,5.0
+Out-of-state,Tennessee,US,356,5.0
 De Witt,Texas,US,15,1.0
 Harris--Houston,Texas,US,3992,75.0
 Harris--Non Houston,Texas,US,2975,65.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3710380,256920.0
+,,World,3713088,257089.0
