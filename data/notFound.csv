@@ -10,9 +10,9 @@ Residents Diagnosed Outside of HI,Hawaii,US,9,0.0
 Out of state,Illinois,US,63,3.0
 Obrien,Iowa,US,11,0.0
 La Salle,Louisiana,US,27,0.0
-Out of State,Michigan,US,18,0.0
-Wayne--Detroit,Michigan,US,9386,1085.0
-Wayne--Non Detroit,Michigan,US,7912,808.0
+Out of State,Michigan,US,22,0.0
+Wayne--Detroit,Michigan,US,9394,1097.0
+Wayne--Non Detroit,Michigan,US,7920,827.0
 Joplin,Missouri,US,9,0.0
 Apache(AZ),Navajo Nation,US,450,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
@@ -47,7 +47,7 @@ St. Croix,US Virgin Islands,US,19,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,36,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,9601,722.0
+VA Hospitals,Veteran Affair,US,9627,722.0
 Buena Vista City,Virginia,US,6,0.0
 Manassas City,Virginia,US,273,1.0
 Unassigned,Wuhan Evacuee,US,4,0.0
@@ -57,4 +57,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3641204,251947.0
+,,World,3643242,252240.0
