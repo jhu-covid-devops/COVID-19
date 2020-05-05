@@ -3,9 +3,9 @@ Out of state,Colorado,US,0,2.0
 Philips,Colorado,US,5,0.0
 Inmates,Federal Bureau of Prisons,US,1984,40.0
 Staff,Federal Bureau of Prisons,US,356,0.0
-Mcduffie,Georgia,US,48,4.0
+Mcduffie,Georgia,US,49,4.0
 Mcintosh,Georgia,US,6,0.0
-Non-Georgia Resident,Georgia,US,1082,18.0
+Non-Georgia Resident,Georgia,US,1043,18.0
 Residents Diagnosed Outside of HI,Hawaii,US,9,0.0
 Out of state,Illinois,US,63,3.0
 Obrien,Iowa,US,11,0.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3694087,255597.0
+,,World,3705874,256541.0
