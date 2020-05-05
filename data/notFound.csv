@@ -6,7 +6,7 @@ Staff,Federal Bureau of Prisons,US,359,0.0
 Mcduffie,Georgia,US,49,4.0
 Mcintosh,Georgia,US,6,0.0
 Non-Georgia Resident,Georgia,US,1043,18.0
-Residents Diagnosed Outside of HI,Hawaii,US,9,0.0
+Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
 Out of state,Illinois,US,73,4.0
 Obrien,Iowa,US,11,0.0
 La Salle,Louisiana,US,27,0.0
@@ -14,17 +14,17 @@ Out of State,Michigan,US,64,0.0
 Wayne--Detroit,Michigan,US,9424,1108.0
 Wayne--Non Detroit,Michigan,US,7967,837.0
 Joplin,Missouri,US,8,0.0
-Apache(AZ),Navajo Nation,US,450,0.0
+Apache(AZ),Navajo Nation,US,560,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
-Cibola(NM),Navajo Nation,US,17,0.0
-Coconino(AZ),Navajo Nation,US,274,0.0
-McKinley(NM),Navajo Nation,US,504,0.0
-Navajo(AZ),Navajo Nation,US,468,0.0
-San Juan(NM),Navajo Nation,US,202,0.0
-San Juan(UT),Navajo Nation,US,22,0.0
+Cibola(NM),Navajo Nation,US,21,0.0
+Coconino(AZ),Navajo Nation,US,292,0.0
+McKinley(NM),Navajo Nation,US,641,0.0
+Navajo(AZ),Navajo Nation,US,525,0.0
+San Juan(NM),Navajo Nation,US,247,0.0
+San Juan(UT),Navajo Nation,US,43,0.0
 Sandoval(NM),Navajo Nation,US,19,0.0
 Socorro(NM),Navajo Nation,US,21,0.0
-Unassigned,Navajo Nation,US,0,62.0
+Unassigned,Navajo Nation,US,105,73.0
 Mcpherson,Nebraska,US,1,0.0
 Countytba,New Hampshire,US,0,0.0
 Hillsborough-Manchester,New Hampshire,US,553,20.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3715035,257310.0
+,,World,3722692,257896.0
