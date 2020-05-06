@@ -5,7 +5,7 @@ Inmates,Federal Bureau of Prisons,US,2066,41.0
 Staff,Federal Bureau of Prisons,US,359,0.0
 Mcduffie,Georgia,US,49,4.0
 Mcintosh,Georgia,US,5,0.0
-Non-Georgia Resident,Georgia,US,1049,18.0
+Non-Georgia Resident,Georgia,US,1053,18.0
 Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
 Out of state,Illinois,US,73,4.0
 Obrien,Iowa,US,11,0.0
@@ -24,7 +24,7 @@ San Juan(NM),Navajo Nation,US,261,0.0
 San Juan(UT),Navajo Nation,US,45,0.0
 Sandoval(NM),Navajo Nation,US,19,0.0
 Socorro(NM),Navajo Nation,US,21,0.0
-Unassigned,Navajo Nation,US,105,79.0
+Unassigned,Navajo Nation,US,9,79.0
 Mcpherson,Nebraska,US,3,0.0
 Countytba,New Hampshire,US,0,0.0
 Hillsborough-Manchester,New Hampshire,US,568,20.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3756423,259449.0
+,,World,3759296,259590.0
