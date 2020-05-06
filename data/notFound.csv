@@ -1,6 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Out of state,Colorado,US,0,2.0
-Philips,Colorado,US,5,0.0
+Philips,Colorado,US,6,0.0
 Inmates,Federal Bureau of Prisons,US,2100,42.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Mcduffie,Georgia,US,50,4.0
@@ -48,7 +48,7 @@ St. Croix,US Virgin Islands,US,27,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,37,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,9823,779.0
+VA Hospitals,Veteran Affair,US,10117,793.0
 Buena Vista City,Virginia,US,6,0.0
 Manassas City,Virginia,US,289,1.0
 Unassigned,Wuhan Evacuee,US,4,0.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3810710,264020.0
+,,World,3810798,264034.0
