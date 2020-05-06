@@ -27,9 +27,9 @@ Socorro(NM),Navajo Nation,US,21,0.0
 Unassigned,Navajo Nation,US,105,73.0
 Mcpherson,Nebraska,US,3,0.0
 Countytba,New Hampshire,US,0,0.0
-Hillsborough-Manchester,New Hampshire,US,553,20.0
-Hillsborough-Nashua,New Hampshire,US,239,8.0
-Hillsborough-Other,New Hampshire,US,365,3.0
+Hillsborough-Manchester,New Hampshire,US,568,20.0
+Hillsborough-Nashua,New Hampshire,US,242,8.0
+Hillsborough-Other,New Hampshire,US,371,3.0
 Unassigned,Northern Mariana Islands,US,14,2.0
 Mcclain,Oklahoma,US,84,2.0
 Mccurtain,Oklahoma,US,8,0.0
@@ -48,7 +48,7 @@ St. Croix,US Virgin Islands,US,27,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,37,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,9627,722.0
+VA Hospitals,Veteran Affair,US,9771,771.0
 Buena Vista City,Virginia,US,6,0.0
 Manassas City,Virginia,US,289,1.0
 Unassigned,Wuhan Evacuee,US,4,0.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3723692,257974.0
+,,World,3725775,258271.0
