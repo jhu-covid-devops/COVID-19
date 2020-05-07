@@ -7,7 +7,7 @@ Mcduffie,Georgia,US,50,4.0
 Mcintosh,Georgia,US,5,0.0
 Non-Georgia Resident,Georgia,US,1091,19.0
 Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
-Out of state,Illinois,US,68,4.0
+Out of state,Illinois,US,71,3.0
 Obrien,Iowa,US,13,0.0
 La Salle,Louisiana,US,30,0.0
 Out of State,Michigan,US,64,0.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3894917,269274.0
+,,World,3898732,269548.0
