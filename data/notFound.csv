@@ -5,14 +5,14 @@ Inmates,Federal Bureau of Prisons,US,2100,42.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Mcduffie,Georgia,US,50,4.0
 Mcintosh,Georgia,US,5,0.0
-Non-Georgia Resident,Georgia,US,1089,19.0
+Non-Georgia Resident,Georgia,US,1091,19.0
 Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
 Out of state,Illinois,US,68,4.0
 Obrien,Iowa,US,13,0.0
 La Salle,Louisiana,US,30,0.0
 Out of State,Michigan,US,64,0.0
-Wayne--Detroit,Michigan,US,9536,1126.0
-Wayne--Non Detroit,Michigan,US,8035,847.0
+Wayne--Detroit,Michigan,US,9566,1147.0
+Wayne--Non Detroit,Michigan,US,8101,865.0
 Joplin,Missouri,US,8,0.0
 Apache(AZ),Navajo Nation,US,656,0.0
 Bernalillo(NM),Navajo Nation,US,0,0.0
@@ -35,7 +35,7 @@ Mcclain,Oklahoma,US,84,2.0
 Mccurtain,Oklahoma,US,8,0.0
 Mcintosh,Oklahoma,US,4,0.0
 Out-of-State,Oklahoma,US,0,0.0
-Out-of-state,Tennessee,US,344,5.0
+Out-of-state,Tennessee,US,354,5.0
 De Witt,Texas,US,15,1.0
 Harris--Houston,Texas,US,4139,82.0
 Harris--Non Houston,Texas,US,3105,68.0
@@ -48,7 +48,7 @@ St. Croix,US Virgin Islands,US,27,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,37,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,10326,811.0
+VA Hospitals,Veteran Affair,US,10396,812.0
 Buena Vista City,Virginia,US,8,0.0
 Manassas City,Virginia,US,332,1.0
 Unassigned,Wuhan Evacuee,US,4,0.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3886230,268908.0
+,,World,3894917,269274.0
