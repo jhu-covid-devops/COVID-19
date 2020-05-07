@@ -5,7 +5,7 @@ Inmates,Federal Bureau of Prisons,US,2100,42.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Mcduffie,Georgia,US,50,4.0
 Mcintosh,Georgia,US,5,0.0
-Non-Georgia Resident,Georgia,US,1072,19.0
+Non-Georgia Resident,Georgia,US,1087,19.0
 Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
 Out of state,Illinois,US,68,4.0
 Obrien,Iowa,US,11,0.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3858043,266719.0
+,,World,3870810,267761.0
