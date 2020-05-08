@@ -1,7 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Out of state,Colorado,US,0,2.0
-Philips,Colorado,US,6,0.0
-Inmates,Federal Bureau of Prisons,US,2100,42.0
+Philips,Colorado,US,7,0.0
+Inmates,Federal Bureau of Prisons,US,2646,44.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Mcduffie,Georgia,US,50,4.0
 Mcintosh,Georgia,US,5,0.0
@@ -27,9 +27,9 @@ Socorro(NM),Navajo Nation,US,21,0.0
 Unassigned,Navajo Nation,US,9,85.0
 Mcpherson,Nebraska,US,0,0.0
 Countytba,New Hampshire,US,0,0.0
-Hillsborough-Manchester,New Hampshire,US,603,20.0
-Hillsborough-Nashua,New Hampshire,US,252,8.0
-Hillsborough-Other,New Hampshire,US,397,3.0
+Hillsborough-Manchester,New Hampshire,US,630,28.0
+Hillsborough-Nashua,New Hampshire,US,257,8.0
+Hillsborough-Other,New Hampshire,US,421,4.0
 Unassigned,Northern Mariana Islands,US,15,2.0
 Mcclain,Oklahoma,US,84,2.0
 Mccurtain,Oklahoma,US,8,0.0
@@ -48,7 +48,7 @@ St. Croix,US Virgin Islands,US,27,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,37,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,10396,812.0
+VA Hospitals,Veteran Affair,US,10427,813.0
 Buena Vista City,Virginia,US,8,0.0
 Manassas City,Virginia,US,332,1.0
 Unassigned,Wuhan Evacuee,US,4,0.0
@@ -58,4 +58,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3910871,270312.0
+,,World,3912588,270403.0
