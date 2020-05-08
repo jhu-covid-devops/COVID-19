@@ -1,11 +1,11 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,2646,44.0
+Inmates,Federal Bureau of Prisons,US,3082,45.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Mcduffie,Georgia,US,50,4.0
 Mcintosh,Georgia,US,6,0.0
-Non-Georgia Resident,Georgia,US,1113,19.0
+Non-Georgia Resident,Georgia,US,1113,21.0
 Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
-Out of state,Illinois,US,71,3.0
+Out of state,Illinois,US,72,2.0
 Obrien,Iowa,US,13,0.0
 La Salle,Louisiana,US,31,0.0
 Out of State,Michigan,US,64,0.0
@@ -56,4 +56,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3989304,274816.0
+,,World,3999002,275256.0
