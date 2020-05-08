@@ -8,7 +8,7 @@ Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
 Out of state,Illinois,US,72,2.0
 Obrien,Iowa,US,13,0.0
 La Salle,Louisiana,US,31,0.0
-Out of State,Michigan,US,64,0.0
+Out of State,Michigan,US,7,0.0
 Wayne--Detroit,Michigan,US,9648,1154.0
 Wayne--Non Detroit,Michigan,US,8176,874.0
 Joplin,Missouri,US,8,0.0
@@ -25,15 +25,15 @@ Socorro(NM),Navajo Nation,US,21,0.0
 Unassigned,Navajo Nation,US,10,88.0
 Mcpherson,Nebraska,US,0,0.0
 Countytba,New Hampshire,US,0,0.0
-Hillsborough-Manchester,New Hampshire,US,630,28.0
-Hillsborough-Nashua,New Hampshire,US,257,8.0
-Hillsborough-Other,New Hampshire,US,421,4.0
+Hillsborough-Manchester,New Hampshire,US,659,28.0
+Hillsborough-Nashua,New Hampshire,US,276,8.0
+Hillsborough-Other,New Hampshire,US,440,4.0
 Unassigned,Northern Mariana Islands,US,15,2.0
 Mcclain,Oklahoma,US,85,2.0
 Mccurtain,Oklahoma,US,8,0.0
 Mcintosh,Oklahoma,US,5,0.0
 Out-of-State,Oklahoma,US,0,0.0
-Out-of-state,Tennessee,US,354,5.0
+Out-of-state,Tennessee,US,371,5.0
 De Witt,Texas,US,15,1.0
 Harris--Houston,Texas,US,4419,90.0
 Harris--Non Houston,Texas,US,3175,70.0
@@ -56,4 +56,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4001296,275403.0
+,,World,4007819,275781.0
