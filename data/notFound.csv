@@ -3,7 +3,7 @@ Inmates,Federal Bureau of Prisons,US,3082,45.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Mcduffie,Georgia,US,50,4.0
 Mcintosh,Georgia,US,6,0.0
-Non-Georgia Resident,Georgia,US,1113,21.0
+Non-Georgia Resident,Georgia,US,1088,22.0
 Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
 Out of state,Illinois,US,72,2.0
 Obrien,Iowa,US,13,0.0
@@ -35,8 +35,8 @@ Mcintosh,Oklahoma,US,5,0.0
 Out-of-State,Oklahoma,US,0,0.0
 Out-of-state,Tennessee,US,354,5.0
 De Witt,Texas,US,15,1.0
-Harris--Houston,Texas,US,4227,85.0
-Harris--Non Houston,Texas,US,3150,69.0
+Harris--Houston,Texas,US,4419,90.0
+Harris--Non Houston,Texas,US,3175,70.0
 Air Force,US Military,US,943,1.0
 Army,US Military,US,1087,2.0
 Marine Corps,US Military,US,449,0.0
@@ -46,7 +46,7 @@ St. Croix,US Virgin Islands,US,28,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,38,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,10666,831.0
+VA Hospitals,Veteran Affair,US,10725,834.0
 Buena Vista City,Virginia,US,8,0.0
 Manassas City,Virginia,US,355,2.0
 Unassigned,Wuhan Evacuee,US,4,0.0
@@ -56,4 +56,4 @@ unassigned,Wyoming,US,0,6.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,3999002,275256.0
+,,World,4001296,275403.0
