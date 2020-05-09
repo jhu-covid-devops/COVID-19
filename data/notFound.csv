@@ -3,7 +3,7 @@ Inmates,Federal Bureau of Prisons,US,3082,45.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Mcduffie,Georgia,US,50,4.0
 Mcintosh,Georgia,US,6,0.0
-Non-Georgia Resident,Georgia,US,1087,22.0
+Non-Georgia Resident,Georgia,US,1088,22.0
 Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
 Out of state,Illinois,US,72,2.0
 Obrien,Iowa,US,13,0.0
@@ -46,7 +46,7 @@ St. Croix,US Virgin Islands,US,28,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,38,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,10725,834.0
+VA Hospitals,Veteran Affair,US,10825,834.0
 Buena Vista City,Virginia,US,8,0.0
 Manassas City,Virginia,US,355,2.0
 Unassigned,Wuhan Evacuee,US,4,0.0
@@ -57,4 +57,4 @@ Total,Colorado,US,18827,960.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4009906,275934.0
+,,World,4010694,275971.0
