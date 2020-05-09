@@ -3,8 +3,8 @@ Inmates,Federal Bureau of Prisons,US,3330,46.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Mcduffie,Georgia,US,50,4.0
 Mcintosh,Georgia,US,7,0.0
-Non-Georgia Resident,Georgia,US,1107,22.0
-Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
+Non-Georgia Resident,Georgia,US,1108,22.0
+Residents Diagnosed Outside of HI,Hawaii,US,11,0.0
 Out of state,Illinois,US,77,3.0
 Obrien,Iowa,US,15,0.0
 La Salle,Louisiana,US,33,0.0
@@ -25,9 +25,9 @@ Socorro(NM),Navajo Nation,US,21,0.0
 Unassigned,Navajo Nation,US,10,96.0
 Mcpherson,Nebraska,US,0,0.0
 Countytba,New Hampshire,US,0,0.0
-Hillsborough-Manchester,New Hampshire,US,659,28.0
-Hillsborough-Nashua,New Hampshire,US,276,8.0
-Hillsborough-Other,New Hampshire,US,440,4.0
+Hillsborough-Manchester,New Hampshire,US,670,28.0
+Hillsborough-Nashua,New Hampshire,US,283,8.0
+Hillsborough-Other,New Hampshire,US,451,4.0
 Unassigned,Northern Mariana Islands,US,16,2.0
 Mcclain,Oklahoma,US,85,2.0
 Mccurtain,Oklahoma,US,8,0.0
@@ -35,8 +35,8 @@ Mcintosh,Oklahoma,US,5,0.0
 Out-of-State,Oklahoma,US,0,0.0
 Out-of-state,Tennessee,US,371,5.0
 De Witt,Texas,US,15,1.0
-Harris--Houston,Texas,US,4419,90.0
-Harris--Non Houston,Texas,US,3175,70.0
+Harris--Houston,Texas,US,4531,94.0
+Harris--Non Houston,Texas,US,3272,74.0
 Air Force,US Military,US,943,1.0
 Army,US Military,US,1087,2.0
 Marine Corps,US Military,US,449,0.0
@@ -51,10 +51,10 @@ Buena Vista City,Virginia,US,8,0.0
 Manassas City,Virginia,US,358,2.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 unassigned,Wyoming,US,0,6.0
-Total,Colorado,US,18827,960.0
+Total,Colorado,US,19375,967.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4085613,279511.0
+,,World,4097007,280139.0
