@@ -2,8 +2,8 @@ County,Province_State,Country_Region,Confirmed,Deaths
 Inmates,Federal Bureau of Prisons,US,3082,45.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Mcduffie,Georgia,US,50,4.0
-Mcintosh,Georgia,US,6,0.0
-Non-Georgia Resident,Georgia,US,1102,22.0
+Mcintosh,Georgia,US,7,0.0
+Non-Georgia Resident,Georgia,US,1109,22.0
 Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
 Out of state,Illinois,US,72,2.0
 Obrien,Iowa,US,13,0.0
@@ -57,4 +57,4 @@ Total,Colorado,US,18827,960.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4044795,277087.0
+,,World,4051467,277530.0
