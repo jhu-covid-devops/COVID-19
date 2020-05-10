@@ -12,17 +12,17 @@ Out of State,Michigan,US,21,0.0
 Wayne--Detroit,Michigan,US,9709,1181.0
 Wayne--Non Detroit,Michigan,US,8251,901.0
 Joplin,Missouri,US,10,0.0
-Apache(AZ),Navajo Nation,US,739,0.0
-Bernalillo(NM),Navajo Nation,US,0,0.0
+Apache(AZ),Navajo Nation,US,762,0.0
+Bernalillo(NM),Navajo Nation,US,3,0.0
 Cibola(NM),Navajo Nation,US,33,0.0
-Coconino(AZ),Navajo Nation,US,314,0.0
-McKinley(NM),Navajo Nation,US,787,0.0
-Navajo(AZ),Navajo Nation,US,609,0.0
-San Juan(NM),Navajo Nation,US,295,0.0
-San Juan(UT),Navajo Nation,US,49,0.0
-Sandoval(NM),Navajo Nation,US,19,0.0
-Socorro(NM),Navajo Nation,US,21,0.0
-Unassigned,Navajo Nation,US,10,96.0
+Coconino(AZ),Navajo Nation,US,316,0.0
+McKinley(NM),Navajo Nation,US,808,0.0
+Navajo(AZ),Navajo Nation,US,623,0.0
+San Juan(NM),Navajo Nation,US,331,0.0
+San Juan(UT),Navajo Nation,US,50,0.0
+Sandoval(NM),Navajo Nation,US,21,0.0
+Socorro(NM),Navajo Nation,US,26,0.0
+Unassigned,Navajo Nation,US,0,98.0
 Mcpherson,Nebraska,US,0,0.0
 Countytba,New Hampshire,US,0,0.0
 Hillsborough-Manchester,New Hampshire,US,670,28.0
@@ -57,4 +57,4 @@ Total,Colorado,US,19375,967.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4098092,280223.0
+,,World,4100623,280431.0
