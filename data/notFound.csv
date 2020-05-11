@@ -34,8 +34,8 @@ Mccurtain,Oklahoma,US,8,0.0
 Mcintosh,Oklahoma,US,5,0.0
 Out-of-State,Oklahoma,US,0,0.0
 Out-of-state,Tennessee,US,375,5.0
-Harris--Houston,Texas,US,4531,94.0
-Harris--Non Houston,Texas,US,3347,78.0
+Harris--Houston,Texas,US,4760,100.0
+Harris--Non Houston,Texas,US,3416,79.0
 Air Force,US Military,US,943,1.0
 Army,US Military,US,1122,2.0
 Marine Corps,US Military,US,460,0.0
@@ -45,15 +45,15 @@ St. Croix,US Virgin Islands,US,29,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,38,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,11139,871.0
+VA Hospitals,Veteran Affair,US,11163,871.0
 Buena Vista City,Virginia,US,8,0.0
 Manassas City,Virginia,US,428,3.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 unassigned,Wyoming,US,0,6.0
-Total,Colorado,US,19703,967.0
+Total,Colorado,US,19879,987.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4241295,286372.0
+,,World,4243626,286563.0
