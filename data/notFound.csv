@@ -12,17 +12,17 @@ Out of State,Michigan,US,26,0.0
 Wayne--Detroit,Michigan,US,9851,1192.0
 Wayne--Non Detroit,Michigan,US,8343,913.0
 Joplin,Missouri,US,10,0.0
-Apache(AZ),Navajo Nation,US,762,0.0
+Apache(AZ),Navajo Nation,US,825,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
-Cibola(NM),Navajo Nation,US,33,0.0
-Coconino(AZ),Navajo Nation,US,316,0.0
-McKinley(NM),Navajo Nation,US,808,0.0
-Navajo(AZ),Navajo Nation,US,623,0.0
-San Juan(NM),Navajo Nation,US,331,0.0
-San Juan(UT),Navajo Nation,US,50,0.0
+Cibola(NM),Navajo Nation,US,36,0.0
+Coconino(AZ),Navajo Nation,US,331,0.0
+McKinley(NM),Navajo Nation,US,865,0.0
+Navajo(AZ),Navajo Nation,US,665,0.0
+San Juan(NM),Navajo Nation,US,374,0.0
+San Juan(UT),Navajo Nation,US,53,0.0
 Sandoval(NM),Navajo Nation,US,21,0.0
 Socorro(NM),Navajo Nation,US,26,0.0
-Unassigned,Navajo Nation,US,0,98.0
+Unassigned,Navajo Nation,US,0,102.0
 Mcpherson,Nebraska,US,0,0.0
 Countytba,New Hampshire,US,0,0.0
 Hillsborough-Manchester,New Hampshire,US,714,28.0
@@ -50,10 +50,9 @@ Buena Vista City,Virginia,US,8,0.0
 Manassas City,Virginia,US,428,3.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 unassigned,Wyoming,US,0,6.0
-Total,Colorado,US,19879,987.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4253802,287250.0
+,,World,4254778,287293.0
