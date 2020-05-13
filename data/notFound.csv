@@ -5,6 +5,7 @@ Mcduffie,Georgia,US,53,4.0
 Mcintosh,Georgia,US,9,0.0
 Non-Georgia Resident,Georgia,US,1629,24.0
 Residents Diagnosed Outside of HI,Hawaii,US,11,0.0
+Edward,Illinois,US,2,0.0
 Out of state,Illinois,US,86,1.0
 Obrien,Iowa,US,19,0.0
 La Salle,Louisiana,US,35,0.0
@@ -34,8 +35,8 @@ Mccurtain,Oklahoma,US,8,0.0
 Mcintosh,Oklahoma,US,5,0.0
 Out-of-State,Oklahoma,US,0,0.0
 Out-of-state,Tennessee,US,318,4.0
-Harris--Houston,Texas,US,4913,101.0
-Harris--Non Houston,Texas,US,3503,82.0
+Harris--Houston,Texas,US,5030,104.0
+Harris--Non Houston,Texas,US,3591,84.0
 Air Force,US Military,US,991,1.0
 Army,US Military,US,1139,2.0
 Marine Corps,US Military,US,472,0.0
@@ -56,4 +57,4 @@ Total,Colorado,US,20157,1009.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4410247,296944.0
+,,World,4417219,297324.0
