@@ -6,23 +6,23 @@ Mcintosh,Georgia,US,8,0.0
 Non-Georgia Resident,Georgia,US,1629,24.0
 Residents Diagnosed Outside of HI,Hawaii,US,11,0.0
 Out of state,Illinois,US,86,1.0
-Obrien,Iowa,US,18,0.0
+Obrien,Iowa,US,19,0.0
 La Salle,Louisiana,US,33,0.0
 Out of State,Michigan,US,75,0.0
 Wayne--Detroit,Michigan,US,9897,1213.0
 Wayne--Non Detroit,Michigan,US,8377,927.0
 Joplin,Missouri,US,10,0.0
-Apache(AZ),Navajo Nation,US,825,0.0
+Apache(AZ),Navajo Nation,US,846,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
 Cibola(NM),Navajo Nation,US,36,0.0
 Coconino(AZ),Navajo Nation,US,331,0.0
-McKinley(NM),Navajo Nation,US,865,0.0
-Navajo(AZ),Navajo Nation,US,665,0.0
-San Juan(NM),Navajo Nation,US,374,0.0
+McKinley(NM),Navajo Nation,US,867,0.0
+Navajo(AZ),Navajo Nation,US,677,0.0
+San Juan(NM),Navajo Nation,US,377,0.0
 San Juan(UT),Navajo Nation,US,53,0.0
 Sandoval(NM),Navajo Nation,US,21,0.0
 Socorro(NM),Navajo Nation,US,26,0.0
-Unassigned,Navajo Nation,US,5,102.0
+Unassigned,Navajo Nation,US,8,103.0
 Mcpherson,Nebraska,US,0,0.0
 Countytba,New Hampshire,US,0,0.0
 Hillsborough-Manchester,New Hampshire,US,732,28.0
@@ -47,7 +47,7 @@ St. Thomas,US Virgin Islands,US,38,0.0
 Unassigned Southwest,Utah,US,0,0.0
 VA Hospitals,Veteran Affair,US,11573,953.0
 Buena Vista City,Virginia,US,8,0.0
-Manassas City,Virginia,US,430,3.0
+Manassas City,Virginia,US,459,4.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 unassigned,Wyoming,US,0,6.0
 Total,Colorado,US,20157,1009.0
@@ -56,4 +56,4 @@ Total,Colorado,US,20157,1009.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4376494,294487.0
+,,World,4384973,294825.0
