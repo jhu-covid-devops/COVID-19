@@ -1,5 +1,5 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,3379,50.0
+Inmates,Federal Bureau of Prisons,US,3379,51.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Mcduffie,Georgia,US,53,4.0
 Mcintosh,Georgia,US,9,0.0
@@ -8,9 +8,9 @@ Residents Diagnosed Outside of HI,Hawaii,US,11,0.0
 Out of state,Illinois,US,86,1.0
 Obrien,Iowa,US,19,0.0
 La Salle,Louisiana,US,35,0.0
-Out of State,Michigan,US,75,0.0
-Wayne--Detroit,Michigan,US,9897,1213.0
-Wayne--Non Detroit,Michigan,US,8377,927.0
+Out of State,Michigan,US,84,0.0
+Wayne--Detroit,Michigan,US,9973,1218.0
+Wayne--Non Detroit,Michigan,US,8416,938.0
 Joplin,Missouri,US,10,0.0
 Apache(AZ),Navajo Nation,US,846,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
@@ -56,4 +56,4 @@ Total,Colorado,US,20157,1009.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4398026,296067.0
+,,World,4400953,296300.0
