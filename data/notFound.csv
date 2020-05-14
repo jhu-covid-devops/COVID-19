@@ -1,5 +1,5 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,3379,51.0
+Inmates,Federal Bureau of Prisons,US,3379,52.0
 Staff,Federal Bureau of Prisons,US,365,0.0
 Apache(AZ),Navajo Nation,US,889,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
@@ -26,4 +26,4 @@ Total,Colorado,US,20838,1062.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4510963,302504.0
+,,World,4518202,302966.0
