@@ -12,13 +12,12 @@ San Juan(UT),Navajo Nation,US,57,0.0
 Sandoval(NM),Navajo Nation,US,21,0.0
 Socorro(NM),Navajo Nation,US,26,0.0
 Unassigned,Navajo Nation,US,5,119.0
-Henderon,North Carolina,US,1,0.0
 Air Force,US Military,US,997,1.0
 Army,US Military,US,1157,2.0
 Marine Corps,US Military,US,479,0.0
 Navy,US Military,US,2782,9.0
 Unassigned,US Military,US,2882,15.0
-VA Hospitals,Veteran Affair,US,11767,972.0
+VA Hospitals,Veteran Affair,US,11779,972.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 Total,Colorado,US,20838,1062.0
 ,External territories,Australia,0,0.0
@@ -26,4 +25,4 @@ Total,Colorado,US,20838,1062.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4518202,302966.0
+,,World,4520564,303061.0
