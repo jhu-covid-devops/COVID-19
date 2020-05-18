@@ -5,7 +5,7 @@ Mcduffie,Georgia,US,55,5.0
 Mcintosh,Georgia,US,10,0.0
 Non-Georgia Resident,Georgia,US,1625,25.0
 Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
-Out of state,Illinois,US,84,1.0
+Out of state,Illinois,US,87,1.0
 Obrien,Iowa,US,22,0.0
 La Salle,Louisiana,US,40,0.0
 Out of State,Michigan,US,88,0.0
@@ -46,7 +46,7 @@ St. Croix,US Virgin Islands,US,29,0.0
 St. John,US Virgin Islands,US,2,0.0
 St. Thomas,US Virgin Islands,US,38,0.0
 Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,12334,1015.0
+VA Hospitals,Veteran Affair,US,12336,1015.0
 Buena Vista City,Virginia,US,9,0.0
 Manassas City,Virginia,US,628,5.0
 Unassigned,Wuhan Evacuee,US,4,0.0
@@ -57,4 +57,4 @@ Total,Colorado,US,21938,1192.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4865089,318829.0
+,,World,4869129,319074.0
