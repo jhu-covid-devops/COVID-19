@@ -8,7 +8,7 @@ Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
 Out of state,Illinois,US,87,1.0
 Obrien,Iowa,US,22,0.0
 La Salle,Louisiana,US,40,0.0
-Out of State,Michigan,US,88,0.0
+Out of State,Michigan,US,62,0.0
 Wayne--Detroit,Michigan,US,10368,1260.0
 Wayne--Non Detroit,Michigan,US,8760,966.0
 Joplin,Missouri,US,10,0.0
@@ -34,9 +34,9 @@ Mcclain,Oklahoma,US,86,2.0
 Mccurtain,Oklahoma,US,11,0.0
 Mcintosh,Oklahoma,US,10,0.0
 Out-of-State,Oklahoma,US,0,0.0
-Out-of-state,Tennessee,US,340,4.0
-Harris--Houston,Texas,US,5656,114.0
-Harris--Non Houston,Texas,US,3809,90.0
+Out-of-state,Tennessee,US,386,4.0
+Harris--Houston,Texas,US,5795,115.0
+Harris--Non Houston,Texas,US,3840,90.0
 Air Force,US Military,US,1010,1.0
 Army,US Military,US,1217,2.0
 Marine Corps,US Military,US,491,0.0
@@ -57,4 +57,4 @@ Total,Colorado,US,21938,1192.0
 ,,Australia,0,0.0
 ,Grand Princess and Canadian Repatriations,Canada,3,0.0
 ,Nunavut,Canada,0,0.0
-,,World,4869129,319074.0
+,,World,4870673,319187.0
