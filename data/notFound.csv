@@ -1,61 +1,19 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Inmates,Federal Bureau of Prisons,US,2338,57.0
-Staff,Federal Bureau of Prisons,US,284,0.0
-Mcduffie,Georgia,US,55,5.0
-Mcintosh,Georgia,US,11,0.0
-Non-Georgia Resident,Georgia,US,1693,25.0
-Residents Diagnosed Outside of HI,Hawaii,US,10,0.0
-Out of state,Illinois,US,87,1.0
-Obrien,Iowa,US,21,0.0
-La Salle,Louisiana,US,40,0.0
-Out of State,Michigan,US,62,0.0
-Wayne--Detroit,Michigan,US,10417,1276.0
-Wayne--Non Detroit,Michigan,US,8875,999.0
-Joplin,Missouri,US,10,0.0
-Apache(AZ),Navajo Nation,US,889,0.0
-Bernalillo(NM),Navajo Nation,US,3,0.0
-Cibola(NM),Navajo Nation,US,37,0.0
-Coconino(AZ),Navajo Nation,US,335,0.0
-McKinley(NM),Navajo Nation,US,912,0.0
-Navajo(AZ),Navajo Nation,US,697,0.0
-San Juan(NM),Navajo Nation,US,410,0.0
-San Juan(UT),Navajo Nation,US,57,0.0
-Sandoval(NM),Navajo Nation,US,21,0.0
-Socorro(NM),Navajo Nation,US,26,0.0
-Unassigned,Navajo Nation,US,684,142.0
-Mcpherson,Nebraska,US,0,0.0
-Countytba,New Hampshire,US,0,0.0
-Hillsborough-Manchester,New Hampshire,US,837,34.0
-Hillsborough-Nashua,New Hampshire,US,329,9.0
-Hillsborough-Other,New Hampshire,US,598,11.0
-Henderon,North Carolina,US,1,0.0
-Unassigned,Northern Mariana Islands,US,21,2.0
-Mcclain,Oklahoma,US,95,2.0
-Mccurtain,Oklahoma,US,12,0.0
-Mcintosh,Oklahoma,US,10,0.0
-Out-of-State,Oklahoma,US,0,0.0
-Out-of-state,Tennessee,US,386,4.0
-Harris--Houston,Texas,US,5795,115.0
-Harris--Non Houston,Texas,US,3840,90.0
-Air Force,US Military,US,1021,1.0
-Army,US Military,US,1238,2.0
-Marine Corps,US Military,US,494,0.0
-Navy,US Military,US,2940,9.0
-Unassigned,US Military,US,3004,16.0
-St. Croix,US Virgin Islands,US,29,0.0
-St. John,US Virgin Islands,US,2,0.0
-St. Thomas,US Virgin Islands,US,38,0.0
-Unassigned Southwest,Utah,US,0,0.0
-VA Hospitals,Veteran Affair,US,12476,1066.0
-Buena Vista City,Virginia,US,11,0.0
-Manassas City,Virginia,US,680,5.0
+Chambers,Georgia,US,0,0.0
+Weber-Morgan,Utah,US,73,1.0
+Central Utah,Utah,US,5,0.0
+"Navajo, AZ",Navajo Nation,US,149,0.0
+"Coconino, AZ",Navajo Nation,US,94,0.0
+"San Juan, NM",Navajo Nation,US,45,0.0
+"Apache, AZ",Navajo Nation,US,33,0.0
+"McKinley, NM",Navajo Nation,US,17,0.0
+"Cibola, NM",Navajo Nation,US,7,0.0
+"San Juan, UT",Navajo Nation,US,7,0.0
+"Socorro, NM",Navajo Nation,US,2,0.0
+Unassigned,Navajo Nation,US,0,14.0
 Unassigned,Wuhan Evacuee,US,4,0.0
-unassigned,Wyoming,US,0,9.0
-Total,Colorado,US,22202,1224.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,Grand Princess and Canadian Repatriations,Canada,3,0.0
-,Nunavut,Canada,0,0.0
-,,World,4964032,323433.0
+,,World,4966094,323629.0
 ,NACIONAL,Mexico,51633,5332.0
