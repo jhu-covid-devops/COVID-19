@@ -1,7 +1,7 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Bristol Bay plus Lake Peninsula,Alaska,US,1,0.0
-Inmates,Federal Bureau of Prisons,US,2338,58.0
-Staff,Federal Bureau of Prisons,US,284,0.0
+Inmates,Federal Bureau of Prisons,US,2265,58.0
+Staff,Federal Bureau of Prisons,US,188,0.0
 Apache(AZ),Navajo Nation,US,889,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
 Cibola(NM),Navajo Nation,US,37,0.0
@@ -24,4 +24,4 @@ Total,Colorado,US,22797,1299.0
 ,External territories,Australia,0,0.0
 ,Jervis Bay,Australia,0,0.0
 ,,Australia,0,0.0
-,,World,5079238,329152.0
+,,World,5082023,329230.0
