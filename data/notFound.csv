@@ -1,11 +1,6 @@
 County,Province_State,Country_Region,Confirmed,Deaths
 Inmates,Federal Bureau of Prisons,US,9122,97.0
 Staff,Federal Bureau of Prisons,US,947,1.0
-Mcduffie,Georgia,US,182,8.0
-Mcintosh,Georgia,US,95,1.0
-Non-Georgia Resident,Georgia,US,10916,61.0
-Residents Diagnosed Outside of HI,Hawaii,US,22,1.0
-La Salle,Louisiana,US,140,1.0
 Apache(AZ),Navajo Nation,US,889,0.0
 Bernalillo(NM),Navajo Nation,US,3,0.0
 Cibola(NM),Navajo Nation,US,37,0.0
@@ -18,32 +13,16 @@ Sandoval(NM),Navajo Nation,US,21,0.0
 Socorro(NM),Navajo Nation,US,26,0.0
 Unassigned,Navajo Nation,US,5099,407.0
 Countytba,New Hampshire,US,0,0.0
-Hillsborough-Manchester,New Hampshire,US,1628,99.0
-Hillsborough-Nashua,New Hampshire,US,685,37.0
-Hillsborough-Other,New Hampshire,US,1173,127.0
-Mcclain,Oklahoma,US,285,4.0
-Mccurtain,Oklahoma,US,661,13.0
-Mcintosh,Oklahoma,US,96,1.0
-Out-of-State,Oklahoma,US,0,0.0
-Harris--Houston,Texas,US,34681,315.0
-Harris--Non Houston,Texas,US,18854,212.0
 Air Force,US Military,US,4073,7.0
 Army,US Military,US,6104,2.0
 Marine Corps,US Military,US,2124,0.0
 Navy,US Military,US,5873,14.0
 Unassigned,US Military,US,8914,21.0
-St. Croix,US Virgin Islands,US,169,0.0
-St. John,US Virgin Islands,US,10,0.0
-St. Thomas,US Virgin Islands,US,84,0.0
 VA Hospitals,Veteran Affair,US,31653,1860.0
 Unassigned,Wuhan Evacuee,US,4,0.0
-unassigned,Wyoming,US,0,23.0
 State,Florida,US,327241,4805.0
 International,Colorado,US,18,0.0
 Total,Colorado,US,39344,1751.0
 ,Australia,Australia,11250,116.0
-,,World,14174332,598413.0
+,,World,14174375,598419.0
 ,NACIONAL,Mexico,324041,37574.0
-,Crimea Republic*,Russia,917,12.0
-,Sevastopol*,Russia,285,5.0
-,dummy,Sweden,10000000,1000000.0
