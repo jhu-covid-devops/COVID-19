@@ -13,6 +13,8 @@ Sandoval(NM),Navajo Nation,US,21,0.0
 Socorro(NM),Navajo Nation,US,26,0.0
 Unassigned,Navajo Nation,US,5836,468.0
 Countytba,New Hampshire,US,0,0.0
+Harris--Houston,Texas,US,53304,543.0
+Harris--Non Houston,Texas,US,29875,327.0
 Air Force,US Military,US,7187,9.0
 Army,US Military,US,10245,2.0
 Marine Corps,US Military,US,3746,0.0
@@ -24,14 +26,8 @@ Unassigned,Wuhan Evacuee,US,4,0.0
 State,Florida,US,518075,7927.0
 International,Colorado,US,18,0.0
 Total,Colorado,US,49893,1857.0
-Unknown,South Carolina,US,0,0.0
-Nueva York,Puerto Rico,US,0,0.0
-Nueva Jersey,Puerto Rico,US,0,0.0
-Texas,Puerto Rico,US,0,0.0
-Ohio,Puerto Rico,US,0,0.0
-Massachusetts,Puerto Rico,US,0,0.0
 ,Australia,Australia,20698,278.0
-,,World,19548149,724149.0
+,,World,19549869,724186.0
 ,NACIONAL,Mexico,469407,51311.0
 ,Crimea Republic*,Russia,1386,16.0
 ,Sevastopol*,Russia,371,11.0
