@@ -17,6 +17,6 @@ jobs:
         - name: install req
           run: pip install PyGithub
         - name: execute py script # run the run.py to get the latest data
-          run: python ./.github/workflows/create.py
+          run: python ./.github/workflows/create.py ${{ secrets.GITHUB_TOKEN }}
           env:
             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
