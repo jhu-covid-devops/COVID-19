@@ -1,0 +1,22 @@
+
+name: branch-from-issue
+on:
+    issues:
+        types: [opened]
+
+jobs:
+    create_issue_branch_job:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Checkout Code
+          uses: actions/checkout@v2
+        - name: setup python
+          uses: actions/setup-python@v2
+          with: 
+            python-version: 3.8 #install the python needed
+        - name: install req
+          run: pip install PyGithub
+        - name: execute py script # run the run.py to get the latest data
+          run: python ./.github/workflows/create.py
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
